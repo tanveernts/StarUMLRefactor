@@ -1,0 +1,17 @@
+{
+  "name": "tanveernts.starumlrefactor",
+  "title": "StarUMLRefactor",
+  "description": "Refactoring methods in StarUML Plugin",
+  "homepage": "https://github.com/tanveernts/StarUMLRefactor",
+  "version": "0.1.0",
+  "keywords": ["javascript", "staruml", "node.js", "UML"],
+  "author": {
+    "name": "Mohammad Tanveer",
+    "email": "tanveernts@gmail.com",
+    "url": "https://github.com/tanveernts"
+  },
+  "license": "CIT",
+  "engines": {
+    "staruml": ">=2.8.0"
+  }
+}
